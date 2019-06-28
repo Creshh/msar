@@ -1,0 +1,6 @@
+[submodule "msar_frontend"]
+	path = msar_frontend
+	url = https://github.com/Creshh/msar-frontend.git
+[submodule "msar_backend"]
+	path = msar_backend
+	url = https://github.com/Creshh/msar-backend.git
