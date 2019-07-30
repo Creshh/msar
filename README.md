@@ -20,8 +20,8 @@ MSAR is an application where images and corresponding json-based metadata can be
 ![overview](https://raw.githubusercontent.com/tomkretzschmar/msar/master/doc/draft_overview.png)
 
 # Backend
-![overview](https://raw.githubusercontent.com/tomkretzschmar/msar/master/doc/backend_draft.png)
+![backend](https://raw.githubusercontent.com/tomkretzschmar/msar/master/doc/backend_draft.png)
 
 # Frontend
-![overview](https://raw.githubusercontent.com/tomkretzschmar/msar/master/doc/frontend_draft.png)
+![frontend](https://raw.githubusercontent.com/tomkretzschmar/msar/master/doc/frontend_draft.png)
 
