@@ -1,0 +1,3 @@
+Maven basiertes Projekt.
+Zum bauen "mvn clean install" im rootordner ausführen.
+Unter msar_backend/target findet man die gebaute jar Datei.
